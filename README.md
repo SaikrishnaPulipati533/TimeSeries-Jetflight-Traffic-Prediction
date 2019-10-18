@@ -1,4 +1,4 @@
-# TimeSeries_Jetflight_data
+# TimeSeries_JetRail_data
 
 About Practice Problem: Time Series
 Time Series forecasting & modeling plays an important role in data analysis. Time series analysis is a specialized branch of statistics used extensively in fields such as Econometrics & Operation Research.
